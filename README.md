@@ -8,17 +8,17 @@ Go to AI Foundry and create an AI hub:
 
 ![Alt text](assets/1.png)
 
-The rest parameters as default
+The rest of parameters as default
 
 Once deployed, launch the AI Foundry and create a new project:
 
 ![Alt text](assets/2.png)
 
-Go to models and endpoitns and click Deploy base model and click the Deepseek-R1 model:
+Go to models and endpoints and click Deploy base model and click the Deepseek-R1 model:
 
 ![Alt text](assets/3.png)
 
-Open chat playground:
+Open the chat playground:
 
 ![Alt text](assets/4.png)
 
@@ -32,7 +32,7 @@ We create a chat.py script and add the Azure endpoint and key from Models + endp
 
 # Results
 
-we create an app.py script as well and execute them in the terminal. Click on the url that appears and the Web app is there!
+We create an app.py script as well and execute them in the terminal. Click on the url that appears and the Web app is there!
 
 ![Alt text](assets/7.png)
 
